@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/tDV9s7N/neom-e-NIGxt-Od-B10-unsplash.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily White",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-13",
+      "reading_time": 30,
+      "hashtags": ["fiction", "nature", "classics"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/4869tLC/neom-kz-EFwh-XPXwo-unsplash.jpg",
+      "title": "Beyond the Horizon",
+      "author": "John Smith",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-12",
+      "reading_time": 45,
+      "hashtags": ["adventure", "fantasy", "journey"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/FY4Wy9g/janosch-diggelmann-4-Hlcm-G4-LDYM-unsplash.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Sarah Brown",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtags": ["romance", "mystery", "suspense"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/YQ9N93y/neom-g9w-CI64k2yw-unsplash.jpg",
+      "title": "City of Stars",
+      "author": "David Johnson",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-10",
+      "reading_time": 40 ,
+      "hashtags": ["science-fiction", "dystopia", "technology"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://i.ibb.co/tDV9s7N/neom-e-NIGxt-Od-B10-unsplash.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Emma Lee",
+      "author_img": "https://picsum.photos/200",
+      "posted_date": "2024-03-09",
+      "reading_time": 35,
+      "hashtags": ["thriller", "suspense", "psychological"]
+    }
+  ]
+  
